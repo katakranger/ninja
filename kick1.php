@@ -1,5 +1,5 @@
 <?php 
-    $kata1 = "PHP is never old";
+    $kata1 = "PHP is never";
     $kata2 = "Hello PHP!";
     $kata3 = "I'm ready for the challenges";
     $hasil1 = strlen($kata1);
